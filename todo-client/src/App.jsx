@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 
-const API_URL = "https://your-todo-api.onrender.com/api/todo";
+const API_URL = "https://to-do-suvanga.onrender.com/";
 
 
 function App() {
