@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dhaka\\OneDrive\\Desktop\\ToDO\\TodoApi\\TodoApi.csproj": {}
+    "C:\\Users\\dhaka\\OneDrive\\Desktop\\TO_DO\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dhaka\\OneDrive\\Desktop\\ToDO\\TodoApi\\TodoApi.csproj": {
+    "C:\\Users\\dhaka\\OneDrive\\Desktop\\TO_DO\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dhaka\\OneDrive\\Desktop\\ToDO\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "C:\\Users\\dhaka\\OneDrive\\Desktop\\TO_DO\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "C:\\Users\\dhaka\\OneDrive\\Desktop\\ToDO\\TodoApi\\TodoApi.csproj",
+        "projectPath": "C:\\Users\\dhaka\\OneDrive\\Desktop\\TO_DO\\TodoApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\dhaka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dhaka\\OneDrive\\Desktop\\ToDO\\TodoApi\\obj\\",
+        "outputPath": "C:\\Users\\dhaka\\OneDrive\\Desktop\\TO_DO\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dhaka\\AppData\\Roaming\\NuGet\\NuGet.Config"
